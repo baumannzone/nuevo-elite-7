@@ -1,5 +1,7 @@
-# nuevo-elite-7
+# Elite 7
 
+## Requirements
+- Node 15.x
 ## Build Setup
 
 ```bash
