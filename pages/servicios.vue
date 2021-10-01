@@ -527,7 +527,6 @@
 </template>
 
 <script>
-import ItemsList from '@/components/servicios/ItemsList.vue'
 import {
   SvgLaboral,
   SvgContable,
@@ -535,7 +534,8 @@ import {
   SvgFiscal,
   SvgOtros,
   SvgColaboradores,
-} from '~/components/svgIcons/index.js'
+} from '../components/svgIcons/index'
+import ItemsList from '@/components/servicios/ItemsList.vue'
 
 export default {
   name: 'Servicios',
