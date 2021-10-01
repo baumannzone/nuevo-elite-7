@@ -2,6 +2,7 @@
 
 ## Requirements
 - Node 15.x
+- NPM 7.x
 ## Build Setup
 
 ```bash
