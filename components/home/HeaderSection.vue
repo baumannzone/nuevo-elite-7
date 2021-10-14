@@ -21,9 +21,9 @@
             Consultores y asesores
           </p>
           <p class="max-w-xl mt-5 mx-auto text-xl text-gray-500">
-            Profesionales con más de 30 años en el asesoramiento fiscal,
+            Profesionales con más de 30 años de experiencia en el asesoramiento fiscal,
             contable, laboral y jurídico con el objetivo de la calidad y
-            eficiencia, tanto para empresas como particulares.
+            eficiencia, tanto para empresas como para particulares.
           </p>
         </div>
       </div>

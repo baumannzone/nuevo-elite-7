@@ -88,7 +88,7 @@
             Dónde estamos
           </p>
           <p class="mt-4 text-lg leading-6 text-gray-500">
-            C/ Alcalde Angel Arroyo, 10. Planta 1ª, oficina 1-2.
+            C/ Alcalde Ángel Arroyo, 10. Planta 1ª, oficina 1-2.
           </p>
           <p class="mb-4 text-lg leading-6 text-gray-500">
             28904, Getafe, Madrid.

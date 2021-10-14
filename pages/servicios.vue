@@ -599,7 +599,7 @@ export default {
         'Impuestos especiales.',
       ],
       colaboradoresItems: [
-        'Auditoria de cuentas.',
+        'Auditoría de cuentas.',
         'Adecuación a la LOPD.',
         'Servicio de prevención de riesgos laborales.',
         'Servicio de protección de datos.',

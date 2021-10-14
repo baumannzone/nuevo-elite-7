@@ -28,7 +28,7 @@ export default {
           '@type': 'PostalAddress',
           addressCountry: 'ES',
           addressLocality: 'Getafe',
-          streetAddress: 'C/ Alcalde Angel Arroyo 10',
+          streetAddress: 'C/ Alcalde Ángel Arroyo 10',
           postalCode: '28904',
         },
         description:
